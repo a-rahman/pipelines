@@ -1,0 +1,1 @@
+docker compose -p pipeline -f configs/base.yml up
